@@ -1,0 +1,18 @@
+# Local browser profile and generated data
+.chrome-profile/
+*.csv
+*.json
+*.txt
+!.gitkeep
+!安装说明.txt
+
+# Python and OS artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local environment files
+.env
+.venv/
+venv/
+node_modules/
